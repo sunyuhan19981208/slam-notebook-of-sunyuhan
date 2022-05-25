@@ -18,6 +18,8 @@ endif()
 
 # Declare the executable target built from your sources
 add_executable(opencv_test src/opencv_test.cpp)
+add_executable(feature_extraction src/feature_extraction.cpp)
 
 # Link your application with OpenCV libraries
 target_link_libraries(opencv_test ${OpenCV_LIBS})
+target_link_libraries(feature_extraction ${OpenCV_LIBS})
