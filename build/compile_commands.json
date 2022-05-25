@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/sunyuhan/Code/cpp/cv/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.5.4_4/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/opencv_test.dir/src/opencv_test.cpp.o -c /Users/sunyuhan/Code/cpp/cv/src/opencv_test.cpp",
+  "file": "/Users/sunyuhan/Code/cpp/cv/src/opencv_test.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/Users/sunyuhan/Code/cpp/cv/build/CMakeFiles/opencv_test.dir
+/Users/sunyuhan/Code/cpp/cv/build/CMakeFiles/edit_cache.dir
+/Users/sunyuhan/Code/cpp/cv/build/CMakeFiles/rebuild_cache.dir
