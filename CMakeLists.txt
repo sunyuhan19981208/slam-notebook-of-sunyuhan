@@ -20,8 +20,10 @@ endif()
 add_executable(opencv_test src/opencv_test.cpp)
 add_executable(feature_extraction src/feature_extraction.cpp)
 add_executable(pose_estimation_2d2d src/pose_estimation_2d2d.cpp)
+add_executable(triangulation src/triangulation.cpp)
 
 # Link your application with OpenCV libraries
 target_link_libraries(opencv_test ${OpenCV_LIBS})
 target_link_libraries(feature_extraction ${OpenCV_LIBS})
 target_link_libraries(pose_estimation_2d2d ${OpenCV_LIBS})
+target_link_libraries(triangulation ${OpenCV_LIBS})
